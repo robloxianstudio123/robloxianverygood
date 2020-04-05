@@ -1,2 +1,3 @@
 # robloxianverygood
-i'm good
+Put The plugin to:
+C:\Users\User\AppData\Local\Roblox\Plugins
